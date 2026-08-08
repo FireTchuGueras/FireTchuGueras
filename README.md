@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MAYCON%20WILLIANS&fontSize=44&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=SYSTEMS%20ANALYSIS%20%26%20DEVELOPMENT%20%7C%20DATA%20ENGINEERING&descAlignY=58&descSize=15&color=0:050505,35:0d1117,70:111827,100:00f5ff" width="100%">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D;%3E+Systems+Analysis+%26+Development+Student;%3E+Data+Engineering+in+progress;%3E+Backend+%7C+Data+%7C+Analytics+%7C+Networks;%3E+Building+systems.+Processing+data.;%3E+Turning+data+into+information." alt="Typing Animation"/>
 
 <br>
