@@ -41,7 +41,7 @@
 
 Hi! I'm **Maycon Willians**, a **Systems Analysis and Development (ADS) student** with a strong interest in **Data Engineering**.
 
-My main goal is to develop the technical foundation required to work with the entire data lifecycle — from **data collection and storage to processing, analysis, and transformation into useful information**.
+My main goal is to develop the technical foundation required to work with the entire data lifecycle from **data collection and storage to processing, analysis, and transformation into useful information**.
 
 I also have experience and interest in **backend development, databases, data analysis, computer networks, and software development**.
 
