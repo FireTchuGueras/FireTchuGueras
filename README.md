@@ -25,11 +25,6 @@
 ║  EDUCATION   :: SYSTEMS ANALYSIS & DEVELOPMENT               ║
 ║  FOCUS       :: DATA ENGINEERING                             ║
 ║                                                              ║
-║  BACKEND     :: JAVA • PYTHON • NODE.JS                      ║
-║  DATA        :: SQL • MYSQL • POSTGRESQL • MONGODB            ║
-║  FRONTEND    :: HTML5 • CSS • JAVASCRIPT • REACT NATIVE      ║
-║  NETWORKS    :: TCP/IP • NETWORK FUNDAMENTALS                ║
-║                                                              ║
 ║  STATUS      :: LEARNING / BUILDING / ANALYZING              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
