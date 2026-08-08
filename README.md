@@ -378,8 +378,8 @@ LEARN. BUILD. ANALYZE. REPEAT.
 </a>
 
 
-<a href="mailto:mayconwork81@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayconwillians81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
