@@ -346,17 +346,6 @@ $ echo "LEARN. BUILD. ANALYZE. REPEAT."
 LEARN. BUILD. ANALYZE. REPEAT.
 ```
 
----
-
-# `// GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5ff&title_color=00f5ff&icon_color=8A2BE2"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&border_color=00f5ff&title_color=00f5ff"/>
-
-</div>
 
 <br>
 
