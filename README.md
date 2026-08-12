@@ -64,20 +64,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com meus estu
 
 <br>
 
-### <code>// CONTRIBUTION_MATRIX</code>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-<sub>⚙️ Animação gerada automaticamente via GitHub Actions — veja as instruções de configuração abaixo.</sub>
-
-</div>
-
 <br>
 
 ### <code>// REDES_SOCIAIS</code>
